@@ -47,7 +47,7 @@
         <sql.create.script>01-create.sql</sql.create.script>
           -->
 
-        <-- MYSQL DATABASE SETTINGS -->
+        <!-- MYSQL DATABASE SETTINGS -->
         <jdbc.groupId>mysql</jdbc.groupId>
         <jdbc.artifactId>mysql-connector-java</jdbc.artifactId>
         <jdbc.version>${mysql.version}</jdbc.version>
